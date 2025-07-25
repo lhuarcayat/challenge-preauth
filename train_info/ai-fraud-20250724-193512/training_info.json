@@ -1,0 +1,8 @@
+{
+  "job_name": "ai-fraud-20250724-193512",
+  "output_path": "s3://challenge-preauth/challenge-ai-fraud-detection/models/ai-fraud-20250724-193512",
+  "duration": "0:06:09.146363",
+  "use_tuning": true,
+  "tuning_job_name": "ai-fraud-20250724-193512",
+  "best_training_job": "ai-fraud-20250724-193512-002-b3c3c8d0"
+}
