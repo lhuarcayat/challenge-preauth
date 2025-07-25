@@ -1,0 +1,7 @@
+{
+  "endpoint_name": "fraud-detection-endpoint-20250724-200924",
+  "model_name": "fraud-detection-model-20250724-200924",
+  "training_job": "ai-fraud-20250724-183602",
+  "deployment_time": "2025-07-24T20:17:34.856174",
+  "region": "us-east-1"
+}
