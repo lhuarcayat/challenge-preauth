@@ -1,0 +1,38 @@
+[
+  {
+    "input_data": {
+      "Age": 35,
+      "Sex": "male",
+      "Job": 2,
+      "Housing": "own",
+      "Savings account": "little",
+      "Checking account": "little",
+      "Credit amount": 2500,
+      "Duration": 12,
+      "Purpose": "car"
+    },
+    "probability_fraud": 1.919269561767578e-05,
+    "is_fraud": false,
+    "target": "good risk",
+    "confidence": 0.9999808073043823,
+    "timestamp": "2025-07-24T22:28:47.927439"
+  },
+  {
+    "input_data": {
+      "Age": 22,
+      "Sex": "male",
+      "Job": 1,
+      "Housing": "rent",
+      "Savings account": null,
+      "Checking account": null,
+      "Credit amount": 15000,
+      "Duration": 48,
+      "Purpose": "business"
+    },
+    "probability_fraud": 0.9996806731214747,
+    "is_fraud": true,
+    "target": "bad risk",
+    "confidence": 0.9996806731214747,
+    "timestamp": "2025-07-24T22:28:48.070547"
+  }
+]
